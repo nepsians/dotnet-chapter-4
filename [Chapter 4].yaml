@@ -1,0 +1,6 @@
+[Chapter 4]
+> Delegates > Multicast > Callbacks [Done]
+
+> Generic Delegates
+- Action Delegates => void return 
+- Func Delegates => when we need to return something
